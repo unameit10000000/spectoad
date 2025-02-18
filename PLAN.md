@@ -27,10 +27,10 @@ PS: If you think including x, y or z is an absolute MUST, please let us know. We
 ## Roadmap ✅
 
 ### Pre-Launch
-- 🏗️ Research + plan
+- ✅ Research + plan
 - ✅ Project name (SpecToad: specification toad, sounds like spectate: watch/track)
-- 🏗️ Setup repo
-- 🏗️ Announce development of SpecToad
+- ✅ Setup repo
+- ✅ Announce development of SpecToad
 - ⏳ Create back-end design
 - ⏳ Choose a dev stack
 - ⏳ Start building
