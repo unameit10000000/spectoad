@@ -13,7 +13,7 @@ However, in the meantime, both insights and non-code contribution are extremely 
 - **Share platform documentation**: Know of useful content specification pages? Let us know!
 - **Suggest platforms**: Which social media or blogging platforms should we prioritize?
 - **Feature requests**: What would make SpecToad most useful for your workflow?
-- **Spread the word**: Know others who might benefit? Share this #buildinpublic journey!
+- **Spread the word**: Know others who might benefit? Share this [#buildinpublic](https://x.com/bart_ohm/status/1891975762158166035) journey!
 
 ## How to Contribute (Coming Soon)
 
@@ -52,4 +52,4 @@ Please reach out via [x.com](https://x.com/bart_ohm) or contact someone in the c
 
 ---
 
-*Know someone who might be interested in using or contributing to SpecToad? Please share this #buildinpublic journey with them!*
+*Know someone who might be interested in using or contributing to SpecToad? Please share this [#buildinpublic](https://x.com/bart_ohm/status/1891975762158166035) journey with them!*

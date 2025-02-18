@@ -28,4 +28,4 @@ This is a community project. Both plan and code will be open, and we encourage a
 
 ---
 
-*Know someone who might be interested in using or contributing to SpecToad? Please share this #buildinpublic journey with them!*
+*Know someone who might be interested in using or contributing to SpecToad? Please share this [#buildinpublic](https://x.com/bart_ohm/status/1891975762158166035) journey with them!*

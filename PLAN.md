@@ -54,4 +54,4 @@ PS: If you think including x, y or z is an absolute MUST, please let us know. We
 
 ---
 
-*Know someone who might be interested in using or contributing to SpecToad? Please share this #buildinpublic journey with them!*
+*Know someone who might be interested in using or contributing to SpecToad? Please share this [#buildinpublic](https://x.com/bart_ohm/status/1891975762158166035) journey with them!*
