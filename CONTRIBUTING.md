@@ -34,19 +34,22 @@ Please reach out via [x.com](https://x.com/bart_ohm) or contact someone in the c
 ### Initiator
 | Name | GitHub | Social |
 |------|--------|--------|
-| Bartolomeo | [unameit10000000](https://github.com/unameit10000000) | [x.com](https://x.com/bart_ohm) |
+| ***Bartolomeo*** | [unameit10000000](https://github.com/unameit10000000) | [x.com](https://x.com/bart_ohm) |
 
 ### Initial Contributors
-| Name | GitHub | Social | Contribution (code, docs, other) |
+| Name | GitHub | Social | Contribution (code, docs, other, all) |
 |------|--------|--------|--------------|
 | First contributors | [username](https://github.com/username) | [platform](https://x.com/handle) | Contribution details |
+| ***Atlas Digitools*** | [atlasdigitools](https://github.com/atlasdigitools) | [x.com](https://x.com/atlas_digitools) | other |
 | ... | ... | ... | ... |
 
 ### All Contributors
 | Name | GitHub | Social | Contribution (code, docs, other) |
 |------|--------|--------|--------------|
-| Name contributor | [username](https://github.com/username) | [platform](https://x.com/handle) | Contribution details |
+| ***Bartolomeo*** | [unameit10000000](https://github.com/unameit10000000) | [x.com](https://x.com/bart_ohm) | all |
+| ***Atlas Digitools*** | [atlasdigitools](https://github.com/atlasdigitools) | [x.com](https://x.com/atlas_digitools) | other |
 | ... | ... | ... | ... |
+
 
 *This list will grow as the project develops.*
 

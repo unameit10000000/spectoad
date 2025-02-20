@@ -24,6 +24,12 @@ In the beginning I'm going to include specs of the most commonly used social med
 
 PS: If you think including x, y or z is an absolute MUST, please let us know. We're open to suggestions. See [contributing](CONTRIBUTING.md).
 
+## System details
+
+Checkout [system details](SYSTEM.md) for details of how this system is going to work.
+
+Additional resources can be found on [google drive](https://drive.google.com/drive/folders/1jkVUpNy3wMtiLkbKQY05o6VpHKxLTLkQ?usp=drive_link)
+
 ## Roadmap ✅
 
 ### Pre-Launch

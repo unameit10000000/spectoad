@@ -12,7 +12,7 @@ The goal is to help content creators and developers easily align AI-generated co
 
 ## Plan Overview
 
-For a breakdown of the project's idea, constraints, launch plan, and so on, please see the [project plan](PLAN.md).
+For a breakdown of the project's idea, constraints, launch plan, and so on, please see the [project plan](docs/PLAN.md).
 
 ## Status
 
